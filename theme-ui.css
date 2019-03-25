@@ -1,0 +1,12 @@
+#box{
+	background-color: var(--main-bg-color);
+	color: var(--main-color);
+	padding: 2rem;
+	
+	-webkit-transition: background-color 600ms ease, color 1000ms ease;
+	-moz-transition: background-color 600ms ease, color 1000ms ease;
+	transition: background-color 600ms ease, color 1000ms ease;
+}
+button{
+	margin-bottom: 1rem;
+}
